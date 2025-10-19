@@ -27,7 +27,7 @@ Project Prompt（專案提示）是透過在專案根目錄或子目錄中放置
 - chileePython是上課用的主目錄
 
 ## 目前次專案的工作目錄
-- chileePython/貪食蛇1
+- chileePython/俄羅斯方塊
 ```
 
 ## AI遵守行為
